@@ -5,6 +5,8 @@
 O Thirium Link é um app gratuito e pequeno para Windows que envia as informações do hardware do seu PC (CPU, placa de
 vídeo, memória, disco, rede e temperaturas) para o wallpaper **Thirium OS (Detroit: Become Human)** do Wallpaper Engine.
 
+**Baixe o wallpaper:** [Thirium OS na Oficina Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3813831586)
+
 Wallpapers não conseguem ler o hardware sozinhos. Sem o Thirium Link, todo o resto do Thirium OS funciona normalmente;
 só o widget de hardware fica escondido.
 
